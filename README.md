@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meta-rach
-- 👀 I’m interested in art, ai, music, web3, nfts and cryptocurrencies
+- 👀 I’m interested in art, ai, music, web3, nfts, cryptocurrencies and the meme economy
 - 🌱 I’m currently learning RWD and python (new versions)
 - 💞️ I’m looking to collaborate on ...anything after I relearn it all
 - 📫 How to reach me ...twitter
